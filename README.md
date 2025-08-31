@@ -31,7 +31,10 @@ I'm a junior front-end developer and graphic designer with a passion for buildin
 
 ## 🌐 Connect with Me
 - 🌐 [LinkedIn](https://www.linkedin.com/in/melkamzer-anteneh-987b2b36a/)  
-- 🎨 [Dribbble](https://dribbble.com/melkamzer)    
+- 🎨 [Dribbble](https://dribbble.com/melkamzer)  
+- 🐦 [Twitter](https://twitter.com/yourhandle)  
+- 🏆 [LeetCode](https://leetcode.com/u/melkamzer/) ![LeetCode](https://img.shields.io/badge/LeetCode-110_questions-orange?style=flat&logo=leetcode&logoColor=white)  
+- 🏅 [Codeforces](https://codeforces.com/profile/abiiti---) ![Codeforces](https://img.shields.io/badge/Codeforces-59_questions-blue?style=flat&logo=codeforces&logoColor=white)  
 
 ---
 

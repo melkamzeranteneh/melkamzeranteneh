@@ -12,7 +12,7 @@ I'm a junior front-end developer and graphic designer.
 - [Portfolio Site](https://melke.github.io/portfolio) - My personal portfolio
 
 
-[LinkedIn](https://linkedin.com/in/melke) | [Dribbble](https://dribbble.com/melke)
+[LinkedIn](https://www.linkedin.com/in/melkamzer-anteneh-987b2b36a/) | [Dribbble](https://dribbble.com/melkamzer)
 
 
-![Melke's GitHub stats](https://github-readme-stats.vercel.app/api?username=Melke&show_icons=true&theme=radical)
+![Melke's GitHub stats](https://github-readme-stats.vercel.app/api?username=melkamzeranteneh&show_icons=true&theme=radical)

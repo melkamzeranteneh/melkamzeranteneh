@@ -1,4 +1,4 @@
-# Hi, I'm Melke 👋
+# Hi, I'm Melkamzer Anteneh 👋
 I'm a junior front-end developer and graphic designer with a passion for building interactive web apps and creating clean, modern UI designs. I also explore AI and software automation to make projects smarter and faster.
 
 ---

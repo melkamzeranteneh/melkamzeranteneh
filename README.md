@@ -14,7 +14,7 @@
   <a href="https://dribbble.com/melkamzer">
     <img src="https://img.shields.io/badge/Dribbble-Portfolio-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" />
   </a>
-  <a href="mailto:YOUR_EMAIL_HERE">
+  <a href="mailto:mshabkanteneh@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
@@ -23,7 +23,7 @@
 <br />
 
 ## 🚀 Professional Focus: AI Video Generation
-I am currently an engineer at **[iCog Labs](https://icog-labs.com/)**, working within the **Video Generation Team**. My work focuses on the intersection of Deep Learning and visual media.
+I am currently an engineer at **[iCog Labs](https://icoglabs.com/)**, working within the **Video Generation Team**. My work focuses on the intersection of Deep Learning and visual media.
 
 * **Core Work:** Developing pipelines for generative video (Text-to-Video / Image-to-Video).
 * **Tech Stack:** Python, PyTorch, Diffusers, OpenCV, and FFmpeg.

@@ -90,8 +90,6 @@ I am currently an engineer at **[iCog Labs](https://icoglabs.com/)**, working wi
 
 <div align="center">
 
-## 📊 Performance & Analytics
-
 ## 📊 Activity & Impact
 <div align="center">
 
@@ -111,7 +109,6 @@ I am currently an engineer at **[iCog Labs](https://icoglabs.com/)**, working wi
 I love exploring unique projects where **Design, Development, and AI** collide. When I'm not training models or centering divs, I'm exploring creative designs on Dribbble.
 
 <div align="center">
-  <i>"Design catches the eye, but AI powers the future."</i>
   <br />
   <b>Let's connect and build something incredible!</b>
 </div>

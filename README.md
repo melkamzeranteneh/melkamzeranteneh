@@ -1,13 +1,11 @@
 <div align="center">
 
   # Hi there, I'm Melkamzer Anteneh! 👋
-  
+
   ### 🎨 Creative Technologist | 🤖 AI Engineer | 💻 Frontend Developer
-
+  
   *Bridging the gap between pixel-perfect design and generative artificial intelligence.*
-
   ---
-
   <a href="https://www.linkedin.com/in/melkamzer-anteneh-987b2b36a/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -19,9 +17,7 @@
   </a>
 
 </div>
-
 <br />
-
 ## 🚀 Professional Focus: AI Video Generation
 I am currently an engineer at **[iCog Labs](https://icoglabs.com/)**, working within the **Video Generation Team**. My work focuses on the intersection of Deep Learning and visual media.
 
@@ -30,7 +26,6 @@ I am currently an engineer at **[iCog Labs](https://icoglabs.com/)**, working wi
 * **Mission:** Solving challenges in temporal consistency and high-fidelity rendering.
 
 ---
-
 ## 🛠️ The Complete Arsenal
 
 ### 🧠 AI, Data & Automation
@@ -72,14 +67,11 @@ I am currently an engineer at **[iCog Labs](https://icoglabs.com/)**, working wi
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| **🤖 AI Video Synthesis Pipeline**<br>*(Work at iCog Labs)* | Working on optimizing generation speed and quality for generative video models. Utilizing deep learning techniques to create seamless video outputs from static inputs. | `Python` `PyTorch` `CUDA` `OpenCV` |
-| **✨ Interactive UI Components**<br>*(Personal Design)* | A collection of modern, accessible, and animated UI components. I focus on micro-interactions that make web apps feel "alive." | `React` `Tailwind` `Framer Motion` |
-| **🧠 Smart Automation Bots**<br>*(Utility Tools)* | Python scripts leveraging LLMs (Gemini/OpenAI) to automate data processing and content categorization tasks, speeding up development workflows. | `Python` `Gemini API` `Selenium` |
+| **🤖 AI Video Synthesis Pipeline**<br>*(Work at iCog Labs)* | Working on optimizing generation speed and quality for generative video models. Utilizing deep learning techniques to create seamless video outputs from static inputs. | `Python` `PyTorch` |
+| **✨ Interactive UI Components**<br>*(Personal Design)* | A collection of modern, accessible, and animated UI components. I focus on micro-interactions that make web apps feel "alive." | `React` `Tailwind` |
+| **🧠 Smart Automation Bots**<br>*(Utility Tools)* | Python scripts leveraging LLMs (Gemini/OpenAI) to automate data processing and content categorization tasks, speeding up development workflows. | `Python` `Gemini API` |
 
 ---
-
-## 🧩 Problem Solving
-
 ## 🧩 Competitive Programming
 | Platform | Status |
 | :--- | :--- |
@@ -92,9 +84,6 @@ I am currently an engineer at **[iCog Labs](https://icoglabs.com/)**, working wi
 
 ## 📊 Activity & Impact
 <div align="center">
-
-### GitHub Contribution Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=melkamzeranteneh&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 ### Weekly Coding Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=melkamzeranteneh&theme=react-dark-alt&area=true&hide_border=true" width="100%" />

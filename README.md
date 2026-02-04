@@ -18,7 +18,9 @@
 
 </div>
 <br />
+
 ## 🚀 Professional Focus: AI Video Generation
+
 I am currently an engineer at **[iCog Labs](https://icoglabs.com/)**, working within the **Video Generation Team**. My work focuses on the intersection of Deep Learning and visual media.
 
 * **Core Work:** Developing pipelines for generative video (Text-to-Video / Image-to-Video).
